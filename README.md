@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nicholas-raphael
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @nicholas-raphael, a swe in mexico city
+- 👀 I’m interested in DevOps and SRE topics
+- 🌱 I’m currently learning Go and AWS
+
+
 
 <!---
 nicholas-raphael/nicholas-raphael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
